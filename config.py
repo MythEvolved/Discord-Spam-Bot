@@ -3,4 +3,4 @@ user_token = [''] # User Token goes here. Multiple accounts can be used too. Exa
 discord_channel = '' # Channel ID goes here.
 
 # Picture Spam
-PicturesDirectory = '' # Pictures Directory goes here. Must contain double slash '\\' to work.
+image_directory = '' # Pictures Directory goes here. Must contain double slash '\\' to work.
